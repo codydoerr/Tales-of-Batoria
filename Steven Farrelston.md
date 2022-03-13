@@ -1,0 +1,2 @@
+#NewhamContacts 
+Father to [[Leon Farrelston]], a worried father who just wishes his son to no longer be scarred by what happened at the tower in the open plains surrounding Newham. He is willing to help in any way, but is not willing to go past the doors.

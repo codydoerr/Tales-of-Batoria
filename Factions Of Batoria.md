@@ -1,0 +1,8 @@
+[[Factions]]
+[[Ash Cloaks]]
+[[Blinding Eye]]
+[[Kennan's Elite]]
+[[Orcangoblish Alliance]]
+[[The Crescent Academy]]
+[[The Falconry]]
+[[Tribe in Wildlands]]

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "3b2068aa53e3e2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2afbc4368a51dc11",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87a712563b461796",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f233a19b07883f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644de1b8d10ad9db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7a4fe8e0a564bd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#NewhamContacts",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88c24ffd155e9a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81a3b2f918c21ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "051fe760be03b2d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2afbc4368a51dc11",
+  "lastOpenFiles": [
+    "Batoria.md",
+    "Pozhar's Uncle.md",
+    "Symone.md",
+    "Hadree.md",
+    "Cities Of Ferador.md",
+    "Gods.md",
+    "Ash King.md",
+    "Ash Cloaks.md",
+    "Orc Shaman-Queen.md",
+    "Orcangoblish Alliance.md"
+  ]
+}
