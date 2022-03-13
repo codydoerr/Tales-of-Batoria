@@ -7,8 +7,11 @@
         "id": "2afbc4368a51dc11",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Golarian Order.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Golarian Order.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,14 +89,14 @@
   "active": "2afbc4368a51dc11",
   "lastOpenFiles": [
     "Golarian Order.md",
+    "Magi Of Golaria.md",
+    "Holder Of Golaria.md",
     "Golaria.md",
     "Talos, God of Storms.md",
     "Torm, God of Courage and Self-Sacrifice.md",
     "Magi Of Ferador.md",
     "Druid of the Moon.md",
     "Church of Newham.md",
-    "Chauntea, Goddess of Agriculture.md",
-    "Eldath, Goddess of Peace.md",
-    "Chosen Vestige.md"
+    "Chauntea, Goddess of Agriculture.md"
   ]
 }
